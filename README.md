@@ -1,6 +1,6 @@
 # Hack the server
 
-A group of pre made servers that you can break
+A group of premade servers that you can hack
 
 > **Note:**
 > Only for educational purposes. Do not use this on any server that you do not have permission to use it on.
